@@ -15,7 +15,7 @@
 
 1. Скачайте репозиторий (**Code → Download ZIP**) или клонируйте его:
    ```
-   git clone https://github.com/MrAdamod/Prog-.git
+   git clone https://github.com/MrAdamod/Prog.git
    ```
 2. Запустите `Progs.bat` двойным щелчком.
 3. Добавьте нужные ссылки в `links\links_download.txt` (формат `URL|имя_файла.exe`).
@@ -80,7 +80,7 @@ LICENSE
 - [ ] Проверка цифровых подписей установщиков.
 - [ ] Экспорт/импорт пресетов.
 
-Актуальный статус и обсуждение — в [Issues](https://github.com/MrAdamod/Prog-/issues) репозитория.
+Актуальный статус и обсуждение — в [Issues](https://github.com/MrAdamod/Prog/issues) репозитория.
 
 ## Лицензия
 
