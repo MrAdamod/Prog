@@ -1,0 +1,8 @@
+# Progs.bat и registry.txt хранятся в CP866 (OEM) с CRLF.
+# -text отключает любые преобразования git (перекодировку и смену переводов строк).
+*.bat -text
+links/*.txt -text
+
+# Документация — UTF-8, LF
+*.md text eol=lf
+LICENSE text eol=lf
